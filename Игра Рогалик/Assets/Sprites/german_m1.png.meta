@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 55a97897799650c40afa8e035cc50037
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1568972860258638038
+    second: german_m1_0
+  - first:
+      213: 5903372780676940370
+    second: german_m1_1
+  - first:
+      213: 7665489213659961534
+    second: german_m1_2
+  - first:
+      213: -1476219221022461859
+    second: german_m1_3
+  - first:
+      213: 4269493011123740953
+    second: german_m1_4
+  - first:
+      213: 7306108074535203684
+    second: german_m1_5
+  - first:
+      213: 563886329287921896
+    second: german_m1_6
+  - first:
+      213: -7747559837776414470
+    second: german_m1_7
+  - first:
+      213: 2676813028293215634
+    second: german_m1_8
+  - first:
+      213: -8230700480728760477
+    second: german_m1_9
+  - first:
+      213: 4589169511641497935
+    second: german_m1_10
+  - first:
+      213: -7763992902459042319
+    second: german_m1_11
+  - first:
+      213: -6870948329673677351
+    second: german_m1_12
+  - first:
+      213: -4150040937651229401
+    second: german_m1_13
+  - first:
+      213: -7919230847612072966
+    second: german_m1_14
+  - first:
+      213: 3063694919488314710
+    second: german_m1_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: german_m1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 146
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.0075451396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a272e021f73e93ae0800000000000000
+      internalID: -1568972860258638038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 146
+        width: 25
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25285f0444efce150800000000000000
+      internalID: 5903372780676940370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 146
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4824054, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb85ac983d9416a60800000000000000
+      internalID: 7665489213659961534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 146
+        width: 25
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d503a58907a638be0800000000000000
+      internalID: -1476219221022461859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9112b0bd549404b30800000000000000
+      internalID: 4269493011123740953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 98
+        width: 22
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463b8499592846560800000000000000
+      internalID: 7306108074535203684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 98
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0d7eef0a353d700800000000000000
+      internalID: 563886329287921896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 22
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8f04930632b7490800000000000000
+      internalID: -7747559837776414470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 50
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2950e815443f52520800000000000000
+      internalID: 2676813028293215634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 50
+        width: 22
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f7689558da6cd80800000000000000
+      internalID: -8230700480728760477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 50
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41c17b3b5100bf30800000000000000
+      internalID: 4589169511641497935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 22
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f556423791c04490800000000000000
+      internalID: -7763992902459042319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 25
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5acb3e5ec75a0a0800000000000000
+      internalID: -6870948329673677351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 25
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d28fb41c71866c0800000000000000
+      internalID: -4150040937651229401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 25
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb44c1808d391290800000000000000
+      internalID: -7919230847612072966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german_m1_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 25
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01615126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d15401c4e648a20800000000000000
+      internalID: 3063694919488314710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
